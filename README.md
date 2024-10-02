@@ -1,4 +1,4 @@
-# DMwithLLM
+# Efficient Sequential Decision Making with Large Language Models
 ## OneShot-wikilinks
 ### How to get the data
 
