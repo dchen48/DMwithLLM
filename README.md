@@ -33,6 +33,6 @@
 * LLM as decision making agent: python llm_agent --llm_type small
 
 ## Acknowledgement
-* The code for SpannerGreedy is modified based on https://github.com/pmineiro/linrepcb/blob/main/oneshotwikilinks/spannerepsgreedy.ipynb.
+* The code for SpannerGreedy is modified based on https://github.com/pmineiro/linrepcb/blob/main/oneshotwikilinks/spannerepsgreedy.ipynb
 * The code for Corral is modified based on https://github.com/pmineiro/smoothcb/blob/main/contextualbanditexperiment/tune-fastcbcorral.py
 
